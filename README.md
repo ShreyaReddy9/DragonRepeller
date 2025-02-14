@@ -29,4 +29,4 @@ Dragon Repeller is an interactive role-playing game where you:
 ## 🕹️ Play the Game Online!
 Click the link below to play **Dragon Repeller** directly in your browser:
 
-👉 file:///Users/shreyareddy/Desktop/Role%20playing%20game/index.html 🐉⚔️
+👉  https://shreyareddy9.github.io/DragonRepeller/ 🐉⚔
